@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'IBM Plex Mono','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all"
+}

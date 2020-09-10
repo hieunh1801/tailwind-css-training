@@ -1,0 +1,4 @@
+#imgBtn:hover + #dropdownContent {
+  visibility: visible;
+  transition: ease-in-out
+}
